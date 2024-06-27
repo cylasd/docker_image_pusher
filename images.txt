@@ -7,3 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 gdy666/lucky
 suwmlee/ikaros
+xiaoyaliu/alist
