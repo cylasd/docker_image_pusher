@@ -10,3 +10,4 @@ suwmlee/ikaros
 xiaoyaliu/alist
 zonty/nas-tools:2.9.1
 linuxserver/jackett
+nyanmisaka/jellyfin
